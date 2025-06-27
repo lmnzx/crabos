@@ -1,0 +1,2 @@
+[tools]
+rust = { version = "nightly", components = "rust-src,llvm-tools" }
